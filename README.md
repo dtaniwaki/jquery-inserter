@@ -1,13 +1,4 @@
-jquery-inserter
-========================
+# jquery-inserter
 
-Insert any version of jquery on any page.
-
-## Install
-
-
-## Usage
-
-
-
+[Chrome Extension](https://chrome.google.com/webstore/detail/jquery-inserter/nmdnmogdclpmgobghmjgdgoakbmaaneb) to insert any version of jQuery to any page.
 
